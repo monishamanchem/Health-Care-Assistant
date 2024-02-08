@@ -1,0 +1,7 @@
+    Item_ID     Item_Name       Price(Rs.)
+        1       Paracetamol     90.0
+        2        Protinex       500.0
+        3      Crocin_Advance   20.0
+        4         Vicks         50.0
+        5         Volini        200.0
+        6       Iodex_Balm      140.0
